@@ -76,16 +76,17 @@ def get_env_variable(env_var=''):
         print(f'Env_var[{env_var}]: {os.environ.get(env_var)}')
 
 
-dir_path = os.path.join(os.environ.get('HOME'), 'Desktop/Test/')
-dir_name = 'newDir'
-new_dir_name = 'newDirRenamed'
-file_name = 'testFile.txt'
-# print_dir()
+if __name__ == "__main__":
+    dir_path = os.path.join(os.environ.get('HOME'), 'Desktop/Test/')
+    dir_name = 'newDir'
+    new_dir_name = 'newDirRenamed'
+    file_name = 'testFile.txt'
+    # print_dir()
 
-create_dir(dir_path, dir_name)
-rename_dir(dir_name, new_dir_name)
-remove_dir(new_dir_name)
-create_file(dir_path, file_name)
-get_file_details(dir_path, file_name)
-get_env_variable()
-get_env_variable('HOME')
+    create_dir(dir_path, dir_name)
+    rename_dir(dir_name, new_dir_name)
+    remove_dir(new_dir_name)
+    create_file(dir_path, file_name)
+    get_file_details(dir_path, file_name)
+    get_env_variable()
+    get_env_variable('HOME')
