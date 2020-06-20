@@ -2,10 +2,10 @@ import os
 from datetime import datetime
 
 
-def print_dir(all=False):
+def print_dir(print_all=False):
     print(f'Path: {os.getcwd()}')
     print(f'List: {os.listdir()}')
-    if all:
+    if print_all:
         for dirpath, dirnames, filenames in os.walk(os.getcwd()):
             print(f'Path: {dirpath}')
             print(f'DirNames: {dirnames}')
