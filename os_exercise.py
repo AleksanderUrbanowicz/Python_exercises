@@ -48,12 +48,17 @@ def create_file(path_to_dir, name):
     except FileNotFoundError:
         print(f'Path {path_to_dir} does not exist, returning')
     try:
-        f = open(name, 'w+')
-    except FileExistsError:
-        print(f'File {name} already exists')
+        f = open(name, 'w')
+    # except FileExistsError:
+    #     print(f'File {name} already exists')
     finally:
         f.close()
         print_dir()
+
+
+def read_text_file(name):
+    with open(name, 'r') as f:
+        return f.read()
 
 
 def get_file_details(path_to_dir, name):

@@ -1,0 +1,663 @@
+{
+  "states": [
+    {
+      "abbreviation": "AL",
+      "area": 67,
+      "area_codes": [
+        "205",
+        "251",
+        "256",
+        "334",
+        "938"
+      ],
+      "name": "Alabama"
+    },
+    {
+      "abbreviation": "AK",
+      "area": 35,
+      "area_codes": [
+        "907"
+      ],
+      "name": "Alaska"
+    },
+    {
+      "abbreviation": "AZ",
+      "area": 73,
+      "area_codes": [
+        "480",
+        "520",
+        "602",
+        "623",
+        "928"
+      ],
+      "name": "Arizona"
+    },
+    {
+      "abbreviation": "AR",
+      "area": 68,
+      "area_codes": [
+        "479",
+        "501",
+        "870"
+      ],
+      "name": "Arkansas"
+    },
+    {
+      "abbreviation": "CA",
+      "area": 89,
+      "area_codes": [
+        "209",
+        "213",
+        "310",
+        "323",
+        "408",
+        "415",
+        "424",
+        "442",
+        "510",
+        "530",
+        "559",
+        "562",
+        "619",
+        "626",
+        "628",
+        "650",
+        "657",
+        "661",
+        "669",
+        "707",
+        "714",
+        "747",
+        "760",
+        "805",
+        "818",
+        "831",
+        "858",
+        "909",
+        "916",
+        "925",
+        "949",
+        "951"
+      ],
+      "name": "California"
+    },
+    {
+      "abbreviation": "CO",
+      "area": 77,
+      "area_codes": [
+        "303",
+        "719",
+        "720",
+        "970"
+      ],
+      "name": "Colorado"
+    },
+    {
+      "abbreviation": "CT",
+      "area": 99,
+      "area_codes": [
+        "203",
+        "475",
+        "860",
+        "959"
+      ],
+      "name": "Connecticut"
+    },
+    {
+      "abbreviation": "DE",
+      "area": 16,
+      "area_codes": [
+        "302"
+      ],
+      "name": "Delaware"
+    },
+    {
+      "abbreviation": "FL",
+      "area": 58,
+      "area_codes": [
+        "239",
+        "305",
+        "321",
+        "352",
+        "386",
+        "407",
+        "561",
+        "727",
+        "754",
+        "772",
+        "786",
+        "813",
+        "850",
+        "863",
+        "904",
+        "941",
+        "954"
+      ],
+      "name": "Florida"
+    },
+    {
+      "abbreviation": "GA",
+      "area": 5,
+      "area_codes": [
+        "229",
+        "404",
+        "470",
+        "478",
+        "678",
+        "706",
+        "762",
+        "770",
+        "912"
+      ],
+      "name": "Georgia"
+    },
+    {
+      "abbreviation": "HI",
+      "area": 36,
+      "area_codes": [
+        "808"
+      ],
+      "name": "Hawaii"
+    },
+    {
+      "abbreviation": "ID",
+      "area": 94,
+      "area_codes": [
+        "208"
+      ],
+      "name": "Idaho"
+    },
+    {
+      "abbreviation": "IL",
+      "area": 42,
+      "area_codes": [
+        "217",
+        "224",
+        "309",
+        "312",
+        "331",
+        "618",
+        "630",
+        "708",
+        "773",
+        "779",
+        "815",
+        "847",
+        "872"
+      ],
+      "name": "Illinois"
+    },
+    {
+      "abbreviation": "IN",
+      "area": 86,
+      "area_codes": [
+        "219",
+        "260",
+        "317",
+        "463",
+        "574",
+        "765",
+        "812",
+        "930"
+      ],
+      "name": "Indiana"
+    },
+    {
+      "abbreviation": "IA",
+      "area": 19,
+      "area_codes": [
+        "319",
+        "515",
+        "563",
+        "641",
+        "712"
+      ],
+      "name": "Iowa"
+    },
+    {
+      "abbreviation": "KS",
+      "area": 34,
+      "area_codes": [
+        "316",
+        "620",
+        "785",
+        "913"
+      ],
+      "name": "Kansas"
+    },
+    {
+      "abbreviation": "KY",
+      "area": 41,
+      "area_codes": [
+        "270",
+        "364",
+        "502",
+        "606",
+        "859"
+      ],
+      "name": "Kentucky"
+    },
+    {
+      "abbreviation": "LA",
+      "area": 38,
+      "area_codes": [
+        "225",
+        "318",
+        "337",
+        "504",
+        "985"
+      ],
+      "name": "Louisiana"
+    },
+    {
+      "abbreviation": "ME",
+      "area": 41,
+      "area_codes": [
+        "207"
+      ],
+      "name": "Maine"
+    },
+    {
+      "abbreviation": "MD",
+      "area": 39,
+      "area_codes": [
+        "240",
+        "301",
+        "410",
+        "443",
+        "667"
+      ],
+      "name": "Maryland"
+    },
+    {
+      "abbreviation": "MA",
+      "area": 83,
+      "area_codes": [
+        "339",
+        "351",
+        "413",
+        "508",
+        "617",
+        "774",
+        "781",
+        "857",
+        "978"
+      ],
+      "name": "Massachusetts"
+    },
+    {
+      "abbreviation": "MI",
+      "area": 86,
+      "area_codes": [
+        "231",
+        "248",
+        "269",
+        "313",
+        "517",
+        "586",
+        "616",
+        "734",
+        "810",
+        "906",
+        "947",
+        "989"
+      ],
+      "name": "Michigan"
+    },
+    {
+      "abbreviation": "MN",
+      "area": 30,
+      "area_codes": [
+        "218",
+        "320",
+        "507",
+        "612",
+        "651",
+        "763",
+        "952"
+      ],
+      "name": "Minnesota"
+    },
+    {
+      "abbreviation": "MS",
+      "area": 66,
+      "area_codes": [
+        "228",
+        "601",
+        "662",
+        "769"
+      ],
+      "name": "Mississippi"
+    },
+    {
+      "abbreviation": "MO",
+      "area": 8,
+      "area_codes": [
+        "314",
+        "417",
+        "573",
+        "636",
+        "660",
+        "816"
+      ],
+      "name": "Missouri"
+    },
+    {
+      "abbreviation": "MT",
+      "area": 86,
+      "area_codes": [
+        "406"
+      ],
+      "name": "Montana"
+    },
+    {
+      "abbreviation": "NE",
+      "area": 54,
+      "area_codes": [
+        "308",
+        "402",
+        "531"
+      ],
+      "name": "Nebraska"
+    },
+    {
+      "abbreviation": "NV",
+      "area": 41,
+      "area_codes": [
+        "702",
+        "725",
+        "775"
+      ],
+      "name": "Nevada"
+    },
+    {
+      "abbreviation": "NH",
+      "area": 18,
+      "area_codes": [
+        "603"
+      ],
+      "name": "New Hampshire"
+    },
+    {
+      "abbreviation": "NJ",
+      "area": 27,
+      "area_codes": [
+        "201",
+        "551",
+        "609",
+        "732",
+        "848",
+        "856",
+        "862",
+        "908",
+        "973"
+      ],
+      "name": "New Jersey"
+    },
+    {
+      "abbreviation": "NM",
+      "area": 68,
+      "area_codes": [
+        "505",
+        "575"
+      ],
+      "name": "New Mexico"
+    },
+    {
+      "abbreviation": "NY",
+      "area": 25,
+      "area_codes": [
+        "212",
+        "315",
+        "332",
+        "347",
+        "516",
+        "518",
+        "585",
+        "607",
+        "631",
+        "646",
+        "680",
+        "716",
+        "718",
+        "845",
+        "914",
+        "917",
+        "929",
+        "934"
+      ],
+      "name": "New York"
+    },
+    {
+      "abbreviation": "NC",
+      "area": 70,
+      "area_codes": [
+        "252",
+        "336",
+        "704",
+        "743",
+        "828",
+        "910",
+        "919",
+        "980",
+        "984"
+      ],
+      "name": "North Carolina"
+    },
+    {
+      "abbreviation": "ND",
+      "area": 0,
+      "area_codes": [
+        "701"
+      ],
+      "name": "North Dakota"
+    },
+    {
+      "abbreviation": "OH",
+      "area": 41,
+      "area_codes": [
+        "216",
+        "220",
+        "234",
+        "330",
+        "380",
+        "419",
+        "440",
+        "513",
+        "567",
+        "614",
+        "740",
+        "937"
+      ],
+      "name": "Ohio"
+    },
+    {
+      "abbreviation": "OK",
+      "area": 55,
+      "area_codes": [
+        "405",
+        "539",
+        "580",
+        "918"
+      ],
+      "name": "Oklahoma"
+    },
+    {
+      "abbreviation": "OR",
+      "area": 16,
+      "area_codes": [
+        "458",
+        "503",
+        "541",
+        "971"
+      ],
+      "name": "Oregon"
+    },
+    {
+      "abbreviation": "PA",
+      "area": 54,
+      "area_codes": [
+        "215",
+        "267",
+        "272",
+        "412",
+        "484",
+        "570",
+        "610",
+        "717",
+        "724",
+        "814",
+        "878"
+      ],
+      "name": "Pennsylvania"
+    },
+    {
+      "abbreviation": "RI",
+      "area": 63,
+      "area_codes": [
+        "401"
+      ],
+      "name": "Rhode Island"
+    },
+    {
+      "abbreviation": "SC",
+      "area": 85,
+      "area_codes": [
+        "803",
+        "843",
+        "854",
+        "864"
+      ],
+      "name": "South Carolina"
+    },
+    {
+      "abbreviation": "SD",
+      "area": 1,
+      "area_codes": [
+        "605"
+      ],
+      "name": "South Dakota"
+    },
+    {
+      "abbreviation": "TN",
+      "area": 75,
+      "area_codes": [
+        "423",
+        "615",
+        "629",
+        "731",
+        "865",
+        "901",
+        "931"
+      ],
+      "name": "Tennessee"
+    },
+    {
+      "abbreviation": "TX",
+      "area": 60,
+      "area_codes": [
+        "210",
+        "214",
+        "254",
+        "281",
+        "325",
+        "346",
+        "361",
+        "409",
+        "430",
+        "432",
+        "469",
+        "512",
+        "682",
+        "713",
+        "737",
+        "806",
+        "817",
+        "830",
+        "832",
+        "903",
+        "915",
+        "936",
+        "940",
+        "956",
+        "972",
+        "979"
+      ],
+      "name": "Texas"
+    },
+    {
+      "abbreviation": "UT",
+      "area": 32,
+      "area_codes": [
+        "385",
+        "435",
+        "801"
+      ],
+      "name": "Utah"
+    },
+    {
+      "abbreviation": "VT",
+      "area": 71,
+      "area_codes": [
+        "802"
+      ],
+      "name": "Vermont"
+    },
+    {
+      "abbreviation": "VA",
+      "area": 99,
+      "area_codes": [
+        "276",
+        "434",
+        "540",
+        "571",
+        "703",
+        "757",
+        "804"
+      ],
+      "name": "Virginia"
+    },
+    {
+      "abbreviation": "WA",
+      "area": 46,
+      "area_codes": [
+        "206",
+        "253",
+        "360",
+        "425",
+        "509"
+      ],
+      "name": "Washington"
+    },
+    {
+      "abbreviation": "WV",
+      "area": 22,
+      "area_codes": [
+        "304",
+        "681"
+      ],
+      "name": "West Virginia"
+    },
+    {
+      "abbreviation": "WI",
+      "area": 10,
+      "area_codes": [
+        "262",
+        "414",
+        "534",
+        "608",
+        "715",
+        "920"
+      ],
+      "name": "Wisconsin"
+    },
+    {
+      "abbreviation": "WY",
+      "area": 6,
+      "area_codes": [
+        "307"
+      ],
+      "name": "Wyoming"
+    }
+  ]
+}
