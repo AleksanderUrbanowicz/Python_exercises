@@ -1,0 +1,5 @@
+INFO:root:args: ('display with logger argument',), kwargs: {}
+INFO:root:args: ('display with logger argument',), kwargs: {}
+INFO:root:args: ('with timer argument',), kwargs: {}
+INFO:root:args: ('display with logger argument',), kwargs: {}
+INFO:root:args: ('with timer argument',), kwargs: {}
