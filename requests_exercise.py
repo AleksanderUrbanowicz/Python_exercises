@@ -27,15 +27,16 @@ urls = [#'http://www.aleksanderurbanowicz.com/',
         'https://api.github.com']
 params = {'q': 'requests+language:python'}
 # Response
-for url in urls:
-    try:
-        response = requests.get(url, params=params)
-        response.raise_for_status()
-    except HTTPError as http_error:
-        print(f'HTTP error: {http_error}')
-    except Exception as other_error:
-        print(f'Other error: {other_error}')
-    else:
-        print(f'Success with status: {response.status_code}')
-        show_response(response)
-# Content
+if __name__ == '__main__':
+    for url in urls:
+        try:
+            response = requests.get(url, params=params)
+            response.raise_for_status()
+        except HTTPError as http_error:
+            print(f'HTTP error: {http_error}')
+        except Exception as other_error:
+            print(f'Other error: {other_error}')
+        else:
+            print(f'Success with status: {response.status_code}')
+            show_response(response)
+
